@@ -11,6 +11,10 @@ Each tribe's artifact was hidden in a different locations across campus. Each tr
 
 ![enter image description here](https://github.com/danielknox/Barcamp6/blob/master/Puzzle/Images/artifact.jpg?raw=true)
 
+### Artifact Code
+The artifacts have a ring of lights on their top, the lights can be in an on/off state creating different patterns; which in turn represent what tribe the artifact is 'aligned' too (a specific tribe or harmony). The position is ultimately used for determining what happens to everyone in the ending 'activation ceremony' (this was done in a huge staged lecture theatre with the lights dimmed low and attendees sitting in the stalls) - once the position is decided by each artifact bearer (person who last carried an artefact), we then use a IR remote to blast everyones badges to activate the appropiate ending light sequence.
+The code for the stones can be found [here](https://os.mbed.com/users/Condo2k4/code/elemental_stone2/)
+
 ## Scroll locations
 
 Each artifact's body was able to be rotated. As you rotated the body the top lights on the artifact changed to a different pattern. The pattern's were unique to each artifact to preventing copying and to stop people knowing immediately knowing a tribes final decision. The scrolls revealed the different patterns and what they represented. Each tribe had their own scroll and this was hidden in a geocache maze puzzle box. These were covered with sand and painted to give a concrete look. 
@@ -18,7 +22,7 @@ Each artifact's body was able to be rotated. As you rotated the body the top lig
 
 The scrolls were hidden near the artifact locations to limit the amount of walking required. The locations were:  Hymn (tribe flood),  Huella Humana (tribe blaze), Father Courage (tribe wind), Darwin Rose Garden (tribe Terra).
 
-The location of the scrolls were revealed by placing a tribe specific card over a 'four time pad'. The text location clue would then be revealed by looking at the pad from a distance.
+The location of the scrolls were revealed by placing a tribe specific card over a 'four time pad'. The text location clue would then be revealed by looking at the pad from a distance. The code for generating the four time pad (genetic algorithim!) can be found [here](https://github.com/condo2k4/MessageGrid)
 
 ![enter image description here](https://github.com/danielknox/Barcamp6/blob/master/Puzzle/Images/four_time_pad.jpg?raw=true)
 
