@@ -9,14 +9,26 @@ Listed below are the various puzzles that made up Barcamp 6.
 ## Artifact Locations
 Each tribe's artifact was hidden in a different locations across campus. Each tribe's badge had a silkscreened clue on its rear revealing the location: Keynes duckpond (tribe flood),  Synapse-Soleil (tribe blaze), Wind-wall (tribe wind), Darwin's Primordial tree (tribe Terra).
 
+![enter image description here](https://github.com/danielknox/Barcamp6/blob/master/Puzzle/Images/artifact.jpg?raw=true)
+
 ## Scroll locations
-Each artifact's body was able to be rotated. As you rotated the body the top lights on the artifact changed to a different pattern. The pattern's were unique to each artifact to preventing copying and to stop people knowing immediately knowing a tribes final decision. The scrolls revealed the different patterns and what they represented. Each tribe had their own scroll and this was hidden in a geocache maze puzzle box. These were covered with sand and painted to give a concrete look. The scrolls were hidden near the artifact locations to limit the amount of walking required. The locations were:  Hymn (tribe flood),  Huella Humana (tribe blaze), Father Courage (tribe wind), Darwin Rose Garden (tribe Terra).
+
+Each artifact's body was able to be rotated. As you rotated the body the top lights on the artifact changed to a different pattern. The pattern's were unique to each artifact to preventing copying and to stop people knowing immediately knowing a tribes final decision. The scrolls revealed the different patterns and what they represented. Each tribe had their own scroll and this was hidden in a geocache maze puzzle box. These were covered with sand and painted to give a concrete look. 
+![enter image description here](https://github.com/danielknox/Barcamp6/blob/master/Puzzle/Images/scroll.jpg?raw=true)
+
+The scrolls were hidden near the artifact locations to limit the amount of walking required. The locations were:  Hymn (tribe flood),  Huella Humana (tribe blaze), Father Courage (tribe wind), Darwin Rose Garden (tribe Terra).
 
 The location of the scrolls were revealed by placing a tribe specific card over a 'four time pad'. The text location clue would then be revealed by looking at the pad from a distance.
 
+![enter image description here](https://github.com/danielknox/Barcamp6/blob/master/Puzzle/Images/four_time_pad.jpg?raw=true)
+
 Each tribe's newspaper also gave a clue to another tribes scroll location.  These clues were always in the same position on each paper and were incorporated into the article's title. E.g. "Hymn - Thousand singers join to celebrate anniversary of the Emperor's coronation", "Father Courage - Rev. heralded for bravery", etc.
 
+
+![enter image description here](https://github.com/danielknox/Barcamp6/blob/master/Puzzle/Images/activation_clues.jpg?raw=true)
 ## Pandora's Box
+
+![enter image description here](https://github.com/danielknox/Barcamp6/blob/master/Puzzle/Images/pandorabox.jpg?raw=true)
 
 ### Combination lock "2d"
 
@@ -25,6 +37,8 @@ Pandora's Box had a combination lock on it with a disc and engraving "2d". The c
 ### Combination lock
 
 Each tribe's room had a small piece of Banksy art. The art was always placed on the whiteboard corner nearest the presenter's desk. The art was related to each tribe's "darkside". On the reverse of the art was a greek symbol which represented the code position and roman numerals for the actual code.
+
+![enter image description here](https://github.com/danielknox/Barcamp6/blob/master/Puzzle/Images/banksy.jpg?raw=true)
 
 ### Key lock
 
@@ -39,4 +53,6 @@ The bansky art in each room was also a mock to this state of affairs, for exampl
 
 Upon opening Pandora's Box, beneath the slogan and unity symbol was stored a number of real-life pieces; intended to parody the story of each tribe into real life. Flood had a picture of a turtle whose shell had been deformed from a lifetime of being trapped in a piece of plastic ("we readily consume more than we need, without thinking the pain & suffering it can cause when we discard it"), blaze had a list of drone-strike kill counts which included civilian numbers ("war and fighting, regardless of its reasons, brings suffering to the innocent"), terra had a list of books that had been challenged/banned in the US in 2018 ("we fear what message materials might convey, and seek to hide it rather than to challenge?/discuss it"), and air had a photo of a young dead child being carried up a beach by a Turkish soldier, the child had died when their migrant boat had capsized whilst fleeing a war-zone ("Ultimately we are all people. But why do we readily turn our backs, despite having so much?"). 
 
-The aim of the barcamp puzzle was to give the attendees the choice of taking things for themselves (and ultimately bring about their doom) or to choose to share their power with everyone else unconditionally (and bringing about a new age of greatness)
+The aim of the barcamp puzzle was to give the attendees the choice of taking things for themselves (and ultimately bring about their doom) or to choose to share their power with everyone else unconditionally (and bringing about a new age of greatness).
+
+![](https://github.com/danielknox/Barcamp6/blob/master/Puzzle/Images/the_answer_is_love.jpg?raw=true)
