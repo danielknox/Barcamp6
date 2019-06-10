@@ -1,0 +1,21 @@
+Panosonic remote:
+
+red = change to fire
+green = change to earth
+yellow = change to air
+blue = change to water
+mute = change to neutral
+
+left = fire dominant
+right = water dominant
+up = air dominant
+down = earth dominant
+ok = win
+
+last view = ressurect
+exit = kill
+
+back = do over
+
+info = flash beer
++ - = increment or decrement beer
